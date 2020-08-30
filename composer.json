@@ -1,5 +1,5 @@
 {
-    "name": "neoxia/laravel-csv-response",
+    "name": "lachlanhickey/laravel-csv-response",
     "license": "MIT",
     "description": "Add a CSV response type to Laravel",
     "require": {
